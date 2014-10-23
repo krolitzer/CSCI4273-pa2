@@ -1,0 +1,14 @@
+Christopher Costello
+10/16/14 Network Systems Programming Assignment 2
+
+To Compile:
+make
+
+To run:
+./echoServer
+./echoClient
+
+To clean:
+make clean
+
+No known bugs or limitations

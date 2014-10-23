@@ -1,0 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=xx, ST=xx, L=xx, O=xx, OU=xx, CN=xx/emailAddress=xx
+        Validity
+            Not Before: Oct 16 02:09:24 2014 GMT
+            Not After : Oct 16 02:09:24 2015 GMT
+        Subject: C=xx, ST=xx, O=xx, OU=xx, CN=xx/emailAddress=xx
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c5:37:0b:85:54:7b:1c:34:1b:40:06:8a:a5:20:
+                    de:38:1e:a0:9d:48:32:ea:c1:51:3b:cf:12:84:ef:
+                    d2:af:5c:33:c0:84:b9:4b:c8:b0:d3:98:01:19:ac:
+                    95:76:ed:ed:7f:6d:3a:47:de:f6:68:5b:06:04:77:
+                    d3:aa:cc:52:1d:70:33:6b:68:8a:f6:d4:90:09:8f:
+                    6c:2b:f3:cb:e2:de:53:9a:bf:70:30:bb:84:b0:1f:
+                    5b:09:66:cf:61:34:6a:29:10:aa:25:71:d6:f6:50:
+                    3e:da:44:ac:7e:01:84:1e:74:a3:f7:ae:9f:5b:a3:
+                    c0:a6:cf:69:46:0c:53:d3:c7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                0E:74:74:99:C4:76:F2:63:0F:BE:36:E7:79:E5:E1:CB:0E:9A:BB:8C
+            X509v3 Authority Key Identifier: 
+                keyid:C0:C3:A9:52:43:00:94:9B:75:31:F3:91:B6:5E:DE:44:7C:BB:C7:35
+
+    Signature Algorithm: sha1WithRSAEncryption
+         48:d1:ce:8c:be:32:65:3d:7c:3e:4a:66:61:e4:24:17:fa:1b:
+         0e:10:48:62:b8:22:8b:c7:4e:e6:f7:2a:52:32:06:ad:dc:b0:
+         d8:81:23:2d:55:09:de:63:57:84:0f:32:3c:a0:39:57:c1:55:
+         30:d5:c3:30:d6:98:f4:90:80:41:5f:e1:03:6f:48:8e:73:6b:
+         68:0b:1d:87:bd:80:6c:34:04:e6:2d:ce:22:d1:2f:e7:1d:9c:
+         fd:bf:44:34:0d:e8:fc:cd:59:2f:92:44:ed:0d:36:5a:a0:d7:
+         a1:c8:5f:51:82:54:05:f1:0a:f1:39:4b:d5:b2:e5:64:8f:05:
+         07:11
+-----BEGIN CERTIFICATE-----
+MIICpjCCAg+gAwIBAgIBATANBgkqhkiG9w0BAQUFADBhMQswCQYDVQQGEwJ4eDEL
+MAkGA1UECAwCeHgxCzAJBgNVBAcMAnh4MQswCQYDVQQKDAJ4eDELMAkGA1UECwwC
+eHgxCzAJBgNVBAMMAnh4MREwDwYJKoZIhvcNAQkBFgJ4eDAeFw0xNDEwMTYwMjA5
+MjRaFw0xNTEwMTYwMjA5MjRaMFQxCzAJBgNVBAYTAnh4MQswCQYDVQQIDAJ4eDEL
+MAkGA1UECgwCeHgxCzAJBgNVBAsMAnh4MQswCQYDVQQDDAJ4eDERMA8GCSqGSIb3
+DQEJARYCeHgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMU3C4VUexw0G0AG
+iqUg3jgeoJ1IMurBUTvPEoTv0q9cM8CEuUvIsNOYARmslXbt7X9tOkfe9mhbBgR3
+06rMUh1wM2toivbUkAmPbCvzy+LeU5q/cDC7hLAfWwlmz2E0aikQqiVx1vZQPtpE
+rH4BhB50o/eun1ujwKbPaUYMU9PHAgMBAAGjezB5MAkGA1UdEwQCMAAwLAYJYIZI
+AYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQW
+BBQOdHSZxHbyYw++Nud55eHLDpq7jDAfBgNVHSMEGDAWgBTAw6lSQwCUm3Ux85G2
+Xt5EfLvHNTANBgkqhkiG9w0BAQUFAAOBgQBI0c6MvjJlPXw+SmZh5CQX+hsOEEhi
+uCKLx07m9ypSMgat3LDYgSMtVQneY1eEDzI8oDlXwVUw1cMw1pj0kIBBX+EDb0iO
+c2toCx2HvYBsNATmLc4i0S/nHZz9v0Q0Dej8zVkvkkTtDTZaoNehyF9RglQF8Qrx
+OUvVsuVkjwUHEQ==
+-----END CERTIFICATE-----
